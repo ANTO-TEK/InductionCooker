@@ -12,7 +12,7 @@ L'utente può variare la potenza del fornello mentre questo è già attivo, ma l
 I tasti di aumento/riduzione della potenza devono essere premuti per almeno 1 secondo affichè il comando abbia effetto.
 Visualizzazione della potenza
 Un led indica l'attivazione del fornello. Il led opera nel seguente modo in accordo alla potenza erogata:
-  ● 0W spento
+  ● 0W spento <\br>
   ● 300W lampeggia con periodo di 2s
   ● 500W lampeggia con periodo di 1s
   ● 1000W lampeggia con periodo di 500ms
